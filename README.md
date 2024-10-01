@@ -1,2 +1,1 @@
-# Sample
-sample text
+This is a simple text file
